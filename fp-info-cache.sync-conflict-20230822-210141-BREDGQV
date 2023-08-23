@@ -1,4 +1,4 @@
-22384836680944288
+22383182145896578
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93331,26 +93331,12 @@ BAT_BH-18650-PC
 2
 2
 user-footprints
-BHX1-1225-PC
-
-
-0
-3
-3
-user-footprints
 CR2032_holder_ali
 
 
 0
 3
 2
-user-footprints
-CR2032_holder_ali.sync-conflict-20221101-103935-UKW2JMH
-
-
-0
-3
-3
 user-footprints
 EG1270
 EG1270-1
@@ -93428,6 +93414,13 @@ Integrated Circuit
 0
 6
 6
+user-footprints
+SW_PTS636_SM43J_SMTR_LFS
+
+
+0
+2
+2
 user-footprints
 batt_pads
 
